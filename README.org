@@ -5,5 +5,5 @@ X11 XKeyboard extension for common lisp x client (clx)
 |---------+------------------------------------------------------------|
 | source  | git:https://github.com/filonenko-mikhail/clx-xkeyboard.git |
 | commit  | 11455d3                                                    |
-| systems | (xkeyboard)                                                |
+| systems | xkeyboard                                                  |
 |---------+------------------------------------------------------------|
